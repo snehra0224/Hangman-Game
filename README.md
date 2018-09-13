@@ -5,3 +5,5 @@ This project was created for fun, and for practicing programming. Additionally, 
 was meant to be an experiment with using Stringbuilder objects.
 The game has two classes. The Hangman class contains the code for the game, while the
 Driver class runs the game. 
+An example of the code in action:
+https://user-images.githubusercontent.com/42956762/45468529-ea4eee80-b6d9-11e8-92a7-c839de15a8eb.png
